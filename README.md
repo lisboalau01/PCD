@@ -1,5 +1,5 @@
-# PCD
-Projeto Final - Programação Concorrente e Distrubuída
+# Programação Concorrente e Distribuída
+Projeto Final - Simulação e Análise de Modelos de Difusão de Contaminantes em Água
 
 Autores:
 
